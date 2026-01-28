@@ -1,0 +1,7 @@
+/workspaces/my_project/build/CMakeFiles/SmartFileManager.dir
+/workspaces/my_project/build/CMakeFiles/edit_cache.dir
+/workspaces/my_project/build/CMakeFiles/rebuild_cache.dir
+/workspaces/my_project/build/CMakeFiles/list_install_components.dir
+/workspaces/my_project/build/CMakeFiles/install.dir
+/workspaces/my_project/build/CMakeFiles/install/local.dir
+/workspaces/my_project/build/CMakeFiles/install/strip.dir

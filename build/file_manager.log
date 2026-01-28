@@ -1,0 +1,129 @@
+[2026-01-28 16:09:10] === File Management System Started ===
+[2026-01-28 16:09:10] === Application Starting ===
+[2026-01-28 16:09:10] Smart File Management System v1.0
+[2026-01-28 16:09:10] Target directory: /workspaces/my_project/build/test_files
+[2026-01-28 16:09:10] FileManager initialized for directory: /workspaces/my_project/build/test_files
+[2026-01-28 16:09:10] FileSorter initialized with category mappings
+[2026-01-28 16:09:10] Menu system initialized
+[2026-01-28 16:09:17] Application started
+[2026-01-28 16:09:21] Found file: data.csv (0 bytes)
+[2026-01-28 16:09:21] Found file: notes.doc (0 bytes)
+[2026-01-28 16:09:21] Found file: presentation.pptx (0 bytes)
+[2026-01-28 16:09:21] Found file: image1.jpg (0 bytes)
+[2026-01-28 16:09:21] Found file: song.mp3 (0 bytes)
+[2026-01-28 16:09:21] Found file: archive.zip (0 bytes)
+[2026-01-28 16:09:21] Found file: report.txt (0 bytes)
+[2026-01-28 16:09:21] Found file: code.cpp (0 bytes)
+[2026-01-28 16:09:21] Found file: video.mp4 (0 bytes)
+[2026-01-28 16:09:21] Found file: summary.pdf (0 bytes)
+[2026-01-28 16:09:21] Found file: image2.png (0 bytes)
+[2026-01-28 16:09:21] Scan complete: 11 files found
+[2026-01-28 16:09:43] Found file: data.csv (0 bytes)
+[2026-01-28 16:09:43] Found file: notes.doc (0 bytes)
+[2026-01-28 16:09:43] Found file: presentation.pptx (0 bytes)
+[2026-01-28 16:09:43] Found file: image1.jpg (0 bytes)
+[2026-01-28 16:09:43] Found file: song.mp3 (0 bytes)
+[2026-01-28 16:09:43] Found file: archive.zip (0 bytes)
+[2026-01-28 16:09:43] Found file: report.txt (0 bytes)
+[2026-01-28 16:09:43] Found file: code.cpp (0 bytes)
+[2026-01-28 16:09:43] Found file: video.mp4 (0 bytes)
+[2026-01-28 16:09:43] Found file: summary.pdf (0 bytes)
+[2026-01-28 16:09:43] Found file: image2.png (0 bytes)
+[2026-01-28 16:09:43] Scan complete: 11 files found
+[2026-01-28 16:10:02] Found file: data.csv (0 bytes)
+[2026-01-28 16:10:02] Found file: notes.doc (0 bytes)
+[2026-01-28 16:10:02] Found file: presentation.pptx (0 bytes)
+[2026-01-28 16:10:02] Found file: image1.jpg (0 bytes)
+[2026-01-28 16:10:02] Found file: song.mp3 (0 bytes)
+[2026-01-28 16:10:02] Found file: archive.zip (0 bytes)
+[2026-01-28 16:10:02] Found file: report.txt (0 bytes)
+[2026-01-28 16:10:02] Found file: code.cpp (0 bytes)
+[2026-01-28 16:10:02] Found file: video.mp4 (0 bytes)
+[2026-01-28 16:10:02] Found file: summary.pdf (0 bytes)
+[2026-01-28 16:10:02] Found file: image2.png (0 bytes)
+[2026-01-28 16:10:02] Scan complete: 11 files found
+[2026-01-28 16:10:25] Found file: data.csv (0 bytes)
+[2026-01-28 16:10:25] Found file: notes.doc (0 bytes)
+[2026-01-28 16:10:25] Found file: presentation.pptx (0 bytes)
+[2026-01-28 16:10:25] Found file: image1.jpg (0 bytes)
+[2026-01-28 16:10:25] Found file: song.mp3 (0 bytes)
+[2026-01-28 16:10:25] Found file: archive.zip (0 bytes)
+[2026-01-28 16:10:25] Found file: report.txt (0 bytes)
+[2026-01-28 16:10:25] Found file: code.cpp (0 bytes)
+[2026-01-28 16:10:25] Found file: video.mp4 (0 bytes)
+[2026-01-28 16:10:25] Found file: summary.pdf (0 bytes)
+[2026-01-28 16:10:25] Found file: image2.png (0 bytes)
+[2026-01-28 16:10:25] Scan complete: 11 files found
+[2026-01-28 16:10:58] Found file: data.csv (0 bytes)
+[2026-01-28 16:10:58] Found file: notes.doc (0 bytes)
+[2026-01-28 16:10:58] Found file: presentation.pptx (0 bytes)
+[2026-01-28 16:10:58] Found file: image1.jpg (0 bytes)
+[2026-01-28 16:10:58] Found file: song.mp3 (0 bytes)
+[2026-01-28 16:10:58] Found file: archive.zip (0 bytes)
+[2026-01-28 16:10:58] Found file: report.txt (0 bytes)
+[2026-01-28 16:10:58] Found file: code.cpp (0 bytes)
+[2026-01-28 16:10:58] Found file: video.mp4 (0 bytes)
+[2026-01-28 16:10:58] Found file: summary.pdf (0 bytes)
+[2026-01-28 16:10:58] Found file: image2.png (0 bytes)
+[2026-01-28 16:10:58] Scan complete: 11 files found
+[2026-01-28 16:11:58] === File Management System Started ===
+[2026-01-28 16:11:58] === Application Starting ===
+[2026-01-28 16:11:58] Smart File Management System v1.0
+[2026-01-28 16:11:58] Target directory: /workspaces/my_project/build/test_files
+[2026-01-28 16:11:58] FileManager initialized for directory: /workspaces/my_project/build/test_files
+[2026-01-28 16:11:58] FileSorter initialized with category mappings
+[2026-01-28 16:11:58] Menu system initialized
+[2026-01-28 16:11:58] Application started
+[2026-01-28 16:12:07] === File Management System Started ===
+[2026-01-28 16:12:07] === Application Starting ===
+[2026-01-28 16:12:07] Smart File Management System v1.0
+[2026-01-28 16:12:07] Target directory: /workspaces/my_project/build/test_files
+[2026-01-28 16:12:07] FileManager initialized for directory: /workspaces/my_project/build/test_files
+[2026-01-28 16:12:07] FileSorter initialized with category mappings
+[2026-01-28 16:12:07] Menu system initialized
+[2026-01-28 16:12:07] Application started
+[2026-01-28 16:12:07] User requested exit
+[2026-01-28 16:12:07] Application terminated normally
+[2026-01-28 16:12:07] === File Management System Stopped ===
+[2026-01-28 16:12:51] === File Management System Started ===
+[2026-01-28 16:12:51] === Application Starting ===
+[2026-01-28 16:12:51] Smart File Management System v1.0
+[2026-01-28 16:12:51] Target directory: /workspaces/my_project/build/test_files
+[2026-01-28 16:12:51] FileManager initialized for directory: /workspaces/my_project/build/test_files
+[2026-01-28 16:12:51] FileSorter initialized with category mappings
+[2026-01-28 16:12:51] Menu system initialized
+[2026-01-28 16:12:51] Application started
+[2026-01-28 16:12:51] User requested exit
+[2026-01-28 16:12:51] Application terminated normally
+[2026-01-28 16:12:51] === File Management System Stopped ===
+[2026-01-28 16:12:59] === File Management System Started ===
+[2026-01-28 16:12:59] === Application Starting ===
+[2026-01-28 16:12:59] Smart File Management System v1.0
+[2026-01-28 16:12:59] Target directory: /workspaces/my_project/build/test_files
+[2026-01-28 16:12:59] FileManager initialized for directory: /workspaces/my_project/build/test_files
+[2026-01-28 16:12:59] FileSorter initialized with category mappings
+[2026-01-28 16:12:59] Menu system initialized
+[2026-01-28 16:12:59] Application started
+[2026-01-28 16:13:47] === File Management System Started ===
+[2026-01-28 16:13:47] === Application Starting ===
+[2026-01-28 16:13:47] Smart File Management System v1.0
+[2026-01-28 16:13:47] Target directory: /workspaces/my_project/build/test_files
+[2026-01-28 16:13:47] FileManager initialized for directory: /workspaces/my_project/build/test_files
+[2026-01-28 16:13:47] FileSorter initialized with category mappings
+[2026-01-28 16:13:47] Menu system initialized
+[2026-01-28 16:13:47] Application started
+[2026-01-28 16:14:43] === File Management System Started ===
+[2026-01-28 16:14:43] === Application Starting ===
+[2026-01-28 16:14:43] Smart File Management System v1.0
+[2026-01-28 16:14:43] Target directory: /workspaces/my_project/build/test_files
+[2026-01-28 16:14:43] FileManager initialized for directory: /workspaces/my_project/build/test_files
+[2026-01-28 16:14:43] FileSorter initialized with category mappings
+[2026-01-28 16:14:43] Menu system initialized
+[2026-01-28 16:14:43] Application started
+[2026-01-28 16:15:11] === File Management System Started ===
+[2026-01-28 16:15:11] === Application Starting ===
+[2026-01-28 16:15:11] Smart File Management System v1.0
+[2026-01-28 16:15:11] Target directory: /workspaces/my_project/build/test_files
+[2026-01-28 16:15:11] FileManager initialized for directory: /workspaces/my_project/build/test_files
+[2026-01-28 16:15:11] FileSorter initialized with category mappings
+[2026-01-28 16:15:11] Menu system initialized
